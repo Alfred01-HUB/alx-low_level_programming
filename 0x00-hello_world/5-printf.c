@@ -2,7 +2,7 @@
 
 /**
  * main - Entry Point
- * printf - printing to stdo
+ * puts - printing to stdo
  * Return: Always 0 (success)
  */
 int main(void)
