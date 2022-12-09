@@ -3,7 +3,7 @@
 /**
  * main - Entry Point
  * printf - printing to stdo
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
