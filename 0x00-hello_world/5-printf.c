@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-z/**
+/**
  * main - Entry Point
  * printf - printing to stdo
  * Return: Always 0 (success)
