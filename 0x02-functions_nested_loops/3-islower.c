@@ -1,8 +1,9 @@
-#include <ctype.h>
 #include "main.h"
 /**
  * _islower - check for uper and lower case
  * Return: 1 if c is lower case otherwise 0
+ * @c:'is the char to be checked'
+ * Description: 'the program's description'
  */
 int _islower(int c)
 {
