@@ -2,8 +2,9 @@
 #include "main.h"
 /**
  * mul - multiply two digits
- * @c: multiply two digit 
- * Return: 0 
+ * @a:multiply two digit
+ * @b:multiply two numbers
+ * Return: 0
  */
 int mul(int a, int b)
 {
